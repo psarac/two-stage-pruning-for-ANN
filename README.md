@@ -24,3 +24,4 @@ Deep learning has achieved remarkable success in various domains such as Compute
   - *AI_Project_CNN.ipynb*: Includes experiments done using ResNet18 and CIFAR-10, **without regularization**
   - *AI_Project_CNN_Regularization.ipynb*: Includes experiments done using ResNet18 and CIFAR-10, **with regularization**
   - *AI_Project_Ablation.ipynb*: Includes experiments done using VGG16 and CIFAR-10, **without regularization**
+  - *18662_Final_Report_Pelinsu_Sarac.pdf*: Main report describing the project
